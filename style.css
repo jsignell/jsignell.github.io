@@ -6,9 +6,8 @@ body {
 
 .jumbotron {
   background: url('cover.png');
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  height: 50%;
 }
 
 .project {
